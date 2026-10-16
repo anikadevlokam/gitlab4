@@ -1,0 +1,21 @@
+student attendance
+
+Standard Technology Stack
+
+• Languages & Frameworks: Python, Flask or Node.js for the backend; React.js or Tailwind CSS for the web dashboard.
+• AI & Computer Vision Libraries: OpenCV, TensorFlow, PyTorch, or DeepFace for face detection and embedding extraction.
+• Algorithms: Haar Cascades, Viola-Jones, or Local Binary Patterns Histograms (LBPH) for real-time face matching.
+• Database: MongoDB, PostgreSQL, or SQLite to store timestamps and attendance sheets.
+• Hardware (Optional): ESP32-CAM modules, webcams, or RFID-RC522 fallback sensors.
+
+Key System Modules
+
+1. Student Enrollment & Image Capture: Captures multiple face angles per student to generate unique feature embeddings.
+2. Real-Time Recognition & Logging: Scans the classroom stream, detects faces, verifies identities, and stamps attendance into a database automatically.
+3. Admin & Lecturer Dashboard: Displays daily attendance summaries, class-wise reports, and student attendance percentages.
+4. At-Risk Prediction: Flags students whose attendance drops below a set threshold or calculates potential "bunk" safety margins.
+You can reference sample open-source implementations like the Real-time Student Class Attendance System on GitHub for practical code structures.
+If you want to build or expand this project, tell me:
+• Are you aiming for a web-based camera app or an offline desktop/mobile script?
+• Do you want to include predictive analytics (like dropout warnings) or stick strictly to face recognition?
+I can help you map out a step-by-step architecture or code template.
