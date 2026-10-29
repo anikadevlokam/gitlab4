@@ -1,0 +1,7 @@
+
+1. AI-Driven Threats & Defenses
+
+Artificial Intelligence is completely redefining both offensive and defensive operations.
+• AI Penetration Testing & Automation: Widespread adoption of open-source AI agents (like strix) that autonomously scan, map, and patch vulnerabilities in real time.
+• Large Language Model (LLM) & Agent Security: Securing AI application pipelines against prompt injection, training data poisoning, and unauthorized system access.
+• Deepfake & Vishing Detection: Engineering advanced multi-modal models to identify AI-synthesized voice and video used in social engineering.
